@@ -1,0 +1,26 @@
+{
+  "name": "hubx-contracts",
+  "version": "1.0.0",
+  "description": "Smart contracts for the HUBX protocol, the decentralized backbone of the FastFitHub ecosystem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FastFitHubX/hubx-contracts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FastFitHubX/hubx-contracts/issues"
+  },
+  "homepage": "https://github.com/FastFitHubX/hubx-contracts#readme",
+  "dependencies": {
+    "chai": "^6.2.2",
+    "mocha": "^11.7.5",
+    "sinon": "^21.0.2",
+    "solc": "^0.8.34"
+  }
+}
