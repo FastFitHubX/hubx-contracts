@@ -51,9 +51,6 @@ HUBX is a Proof-of-Workout powered digital asset built on Solana.
 
 ## 🔍 Audit
 
-- Audit Status: (Choose one)
-
-👉 If not done:
 Currently unaudited. Audit planned.
 
 ---
