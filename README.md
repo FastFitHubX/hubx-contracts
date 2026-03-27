@@ -1,27 +1,103 @@
-# hubx-contracts
+# HUBX — Financial Fitness Layer
 
-Smart contracts for the HUBX protocol, the decentralized backbone of the FastFitHub ecosystem.
+HUBX is a Proof-of-Workout powered digital asset built on Solana.
 
-## Overview
+---
 
-The `hubx-contracts` repository contains the core smart contracts that power the HUBX protocol. These contracts handle tokenomics, staking, governance, and the distribution of rewards earned through the Proof-of-Workout (PoWk) protocol.
+## 🔗 Token Details
 
-## Repository Structure
+- **Token Name:** HUBX  
+- **Symbol:** HUBX  
+- **Chain:** Solana  
+- **Contract Address:**  
+  DvqPDwmww1Cm865cS8q2PxNp3dx7nERE3ZpHzRxwdoge  
 
-- **`hubx-token/`**: Contains the `HubXToken.sol` contract, implementing the HUBX utility token with minting and burning capabilities.
-- **`staking/`**: Contains the `StakingContract.sol` contract, allowing users to stake HUBX tokens to earn rewards and participate in governance.
-- **`governance/`**: Contains the `Governance.sol` contract, enabling decentralized decision-making through proposals and voting.
-- **`reward-distribution/`**: Contains the `RewardDistributor.sol` contract, which manages the distribution of rewards to users based on their verified physical activities.
+- **Token Program:**  
+  TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA  
 
-## Interaction with Proof-of-Workout
+---
 
-The smart contracts in this repository are designed to work in tandem with the Proof-of-Workout (PoWk) protocol. Once a workout is verified and an activity score is calculated by the `hubx-proof-of-workout` backend, the `RewardDistributor` contract is triggered to allocate HUBX tokens to the user's address.
+## 📊 Total Supply
 
-1.  **Verification**: A workout is verified via the PoWk protocol.
-2.  **Scoring**: An activity score is generated based on duration and intensity.
-3.  **Distribution**: The `RewardDistributor` contract records the pending rewards for the user.
-4.  **Claiming**: Users can claim their earned HUBX tokens directly through the smart contract.
+**1,000,000,000 HUBX**
 
-## License
+### Allocation Breakdown:
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- Rewards (Proof-of-Workout): 40%  
+- Ecosystem Growth: 20%  
+- Liquidity: 15%  
+- Team: 10%  
+- Treasury: 10%  
+- Marketing: 5%  
+
+---
+
+## ⏳ Vesting Schedule (4 Years)
+
+- Team tokens locked with linear vesting over 48 months  
+- Ecosystem & treasury controlled via phased release  
+- No sudden unlocks  
+
+---
+
+## 💧 Liquidity
+
+- Liquidity Pool: [GeckoTerminal Link]  
+- **Lock Status:** (Choose one)
+
+👉 If locked:
+- Liquidity locked via [platform]  
+- TX: [Paste TX]
+
+👉 If NOT:
+- Currently not locked  
+- Will be locked post X milestone  
+
+---
+
+## 🔍 Audit
+
+- Audit Status: (Choose one)
+
+👉 If not done:
+Currently unaudited. Audit planned.
+
+👉 If done:
+- Audit Report: [PDF Link]
+
+---
+
+## ⚡ Proof-of-Workout (PoWk)
+
+HUBX is earned via activity, not just bought.
+
+### Live Utility:
+
+- Discord → `/workout` → rewards HUBX  
+- Wallet UI shows earned tokens  
+- Real-time tracking:  
+  https://wallet.fastfithub.com  
+
+---
+
+## 🔗 Live Data
+
+- Chart: GeckoTerminal  
+- Wallet UI: https://wallet.fastfithub.com  
+- Rewards System: Live  
+
+---
+
+## 🧠 Vision
+
+HUBX powers the Financial Layer of Fitness.
+
+Where:
+Effort → Reward → Asset
+
+---
+
+## ⚠️ Disclaimer
+
+HUBX is an early-stage digital asset.  
+Users should conduct their own research before participating.
