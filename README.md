@@ -45,11 +45,7 @@ HUBX is a Proof-of-Workout powered digital asset built on Solana.
 - Liquidity Pool: [GeckoTerminal Link]  
 - **Lock Status:** (Choose one)
 
-👉 If locked:
-- Liquidity locked via [platform]  
-- TX: [Paste TX]
 
-👉 If NOT:
 - Currently not locked  
 - Will be locked post X milestone  
 
@@ -61,9 +57,6 @@ HUBX is a Proof-of-Workout powered digital asset built on Solana.
 
 👉 If not done:
 Currently unaudited. Audit planned.
-
-👉 If done:
-- Audit Report: [PDF Link]
 
 ---
 
